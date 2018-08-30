@@ -7,9 +7,6 @@
  Works!
  Converted to .exe as well, use -noConsole option 
 
-
-
--------------------------------------------------------------------------------------------
  References:
  https://github.com/Windos/BurntToast
  https://stackoverflow.com/questions/32522097/windows-10-is-it-possible-to-add-new-notification-to-action-center-manually
@@ -19,4 +16,3 @@
  https://swapi.co/
  https://gallery.technet.microsoft.com/scriptcenter/PS2EXE-Convert-PowerShell-9e4e07f1
  
--------------------------------------------------------------------------------------------
